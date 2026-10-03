@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "s001",
+  "gun": 1,
+  "saat": "08:30",
+  "baslik": "Panik anında 5-4-3-2-1",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s001.mp4"
+ },
+ {
+  "id": "s002",
+  "gun": 1,
+  "saat": "13:00",
+  "baslik": "Sessizliğe dayanamayan kişi seni bir çıkış sanır .",
+  "kap": "Yalnızlık",
+  "video": "s/s002.mp4"
+ },
+ {
+  "id": "s003",
+  "gun": 1,
+  "saat": "21:00",
+  "baslik": "Gece hangisi seni yakalıyor?",
+  "kap": "Uyku",
+  "video": "s/s003.mp4"
+ },
+ {
+  "id": "s004",
+  "gun": 2,
+  "saat": "08:30",
+  "baslik": "Terapi işe yaramaz",
+  "kap": "Terapi Süreci",
+  "video": "s/s004.mp4"
+ },
+ {
+  "id": "s005",
+  "gun": 2,
+  "saat": "13:00",
+  "baslik": "%70",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s005.mp4"
+ },
+ {
+  "id": "s006",
+  "gun": 2,
+  "saat": "21:00",
+  "baslik": "Uyku gelmiyorsa bunları yap",
+  "kap": "Uyku",
+  "video": "s/s006.mp4"
+ },
+ {
+  "id": "s007",
+  "gun": 3,
+  "saat": "08:30",
+  "baslik": "Danışanıma yazdıkları",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s007.mp4"
+ },
+ {
+  "id": "s008",
+  "gun": 3,
+  "saat": "13:00",
+  "baslik": "Danışanların en çok zorlandığı şey",
+  "kap": "Terapi Süreci",
+  "video": "s/s008.mp4"
+ },
+ {
+  "id": "s009",
+  "gun": 3,
+  "saat": "21:00",
+  "baslik": "Aynı kaygı, iki farklı tepki",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s009.mp4"
+ },
+ {
+  "id": "s010",
+  "gun": 4,
+  "saat": "08:30",
+  "baslik": "Endişeni bugün kaçtan bulursun?",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s010.mp4"
+ },
+ {
+  "id": "s011",
+  "gun": 4,
+  "saat": "13:00",
+  "baslik": "Terapiye adım atmak",
+  "kap": "Terapi Süreci",
+  "video": "s/s011.mp4"
+ },
+ {
+  "id": "s012",
+  "gun": 4,
+  "saat": "21:00",
+  "baslik": "Terapi başladıktan sonra ne olur",
+  "kap": "Terapi Süreci",
+  "video": "s/s012.mp4"
+ },
+ {
+  "id": "s013",
+  "gun": 5,
+  "saat": "08:30",
+  "baslik": "Bir düşünceyi durdurmanın yolu",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s013.mp4"
+ },
+ {
+  "id": "s014",
+  "gun": 5,
+  "saat": "13:00",
+  "baslik": "İnsanlar çoğu zaman acı çekmekten korktuğu için ilişkide kalır.",
+  "kap": "İlişkiler",
+  "video": "s/s014.mp4"
+ },
+ {
+  "id": "s015",
+  "gun": 5,
+  "saat": "21:00",
+  "baslik": "Hangiisini daha çok yapıyorsun?",
+  "kap": "İlişkiler",
+  "video": "s/s015.mp4"
+ },
+ {
+  "id": "s016",
+  "gun": 6,
+  "saat": "08:30",
+  "baslik": "İyileşmek hep böyle gider",
+  "kap": "Terapi Süreci",
+  "video": "s/s016.mp4"
+ },
+ {
+  "id": "s017",
+  "gun": 6,
+  "saat": "13:00",
+  "baslik": "90",
+  "kap": "Uyku",
+  "video": "s/s017.mp4"
+ },
+ {
+  "id": "s018",
+  "gun": 6,
+  "saat": "21:00",
+  "baslik": "Sabah kalkınca bunları yapma",
+  "kap": "Uyku",
+  "video": "s/s018.mp4"
+ },
+ {
+  "id": "s019",
+  "gun": 7,
+  "saat": "08:30",
+  "baslik": "Aynı cümle, iki farklı okuma",
+  "kap": "İlişkiler",
+  "video": "s/s019.mp4"
+ },
+ {
+  "id": "s020",
+  "gun": 7,
+  "saat": "13:00",
+  "baslik": "Neden ilk seans bana en zor gelen gün",
+  "kap": "Terapi Süreci",
+  "video": "s/s020.mp4"
+ },
+ {
+  "id": "s021",
+  "gun": 7,
+  "saat": "21:00",
+  "baslik": "Özür dilerken ne demek istersin?",
+  "kap": "İlişkiler",
+  "video": "s/s021.mp4"
+ },
+ {
+  "id": "s022",
+  "gun": 8,
+  "saat": "08:30",
+  "baslik": "Sınava kalan dört gün",
+  "kap": "Ebeveyn",
+  "video": "s/s022.mp4"
+ },
+ {
+  "id": "s023",
+  "gun": 8,
+  "saat": "13:00",
+  "baslik": "İnsan, eleştirilmediği yerde kendini daha az değerli hisseder.",
+  "kap": "Yalnızlık",
+  "video": "s/s023.mp4"
+ },
+ {
+  "id": "s024",
+  "gun": 8,
+  "saat": "21:00",
+  "baslik": "Sinavdan bir gün önce asıl seni ne yer?",
+  "kap": "Ebeveyn",
+  "video": "s/s024.mp4"
+ },
+ {
+  "id": "s025",
+  "gun": 9,
+  "saat": "08:30",
+  "baslik": "İnsanlar beni gerçekten anlıyor",
+  "kap": "Soru-Cevap",
+  "video": "s/s025.mp4"
+ },
+ {
+  "id": "s026",
+  "gun": 9,
+  "saat": "13:00",
+  "baslik": "%60",
+  "kap": "Uyku",
+  "video": "s/s026.mp4"
+ },
+ {
+  "id": "s027",
+  "gun": 9,
+  "saat": "21:00",
+  "baslik": "Sınır koyarken bunları yapma",
+  "kap": "Ebeveyn",
+  "video": "s/s027.mp4"
+ },
+ {
+  "id": "s028",
+  "gun": 10,
+  "saat": "08:30",
+  "baslik": "Neden hep geç kaldı?",
+  "kap": "Uyku",
+  "video": "s/s028.mp4"
+ },
+ {
+  "id": "s029",
+  "gun": 10,
+  "saat": "13:00",
+  "baslik": "Öfkeyi bastırmadan yönetmek",
+  "kap": "İlişkiler",
+  "video": "s/s029.mp4"
+ },
+ {
+  "id": "s030",
+  "gun": 10,
+  "saat": "21:00",
+  "baslik": "Depresyonda iyileşme nasıl ilerler",
+  "kap": "Depresyon",
+  "video": "s/s030.mp4"
+ },
+ {
+  "id": "s031",
+  "gun": 11,
+  "saat": "08:30",
+  "baslik": "Suçluluk duygusunda dört adım",
+  "kap": "İlişkiler",
+  "video": "s/s031.mp4"
+ },
+ {
+  "id": "s032",
+  "gun": 11,
+  "saat": "13:00",
+  "baslik": "İnsan, kimse görmediği yerdeki halini daha kolay kabul eder.",
+  "kap": "Yalnızlık",
+  "video": "s/s032.mp4"
+ },
+ {
+  "id": "s033",
+  "gun": 11,
+  "saat": "21:00",
+  "baslik": "İlişkide seni en çok yoran ne?",
+  "kap": "Soru-Cevap",
+  "video": "s/s033.mp4"
+ },
+ {
+  "id": "s034",
+  "gun": 12,
+  "saat": "08:30",
+  "baslik": "İyi niyetli olmak yetiyor",
+  "kap": "Yalnızlık",
+  "video": "s/s034.mp4"
+ },
+ {
+  "id": "s035",
+  "gun": 12,
+  "saat": "13:00",
+  "baslik": "8-10",
+  "kap": "Terapi Süreci",
+  "video": "s/s035.mp4"
+ },
+ {
+  "id": "s036",
+  "gun": 12,
+  "saat": "21:00",
+  "baslik": "Bildirim kutusu seni nasıl yönetiyor",
+  "kap": "Uyku",
+  "video": "s/s036.mp4"
+ },
+ {
+  "id": "s037",
+  "gun": 13,
+  "saat": "08:30",
+  "baslik": "Dayanmam gerektiğini düşünüyorum",
+  "kap": "Soru-Cevap",
+  "video": "s/s037.mp4"
+ },
+ {
+  "id": "s038",
+  "gun": 13,
+  "saat": "13:00",
+  "baslik": "Danışanlarımdan duyduğum en zor cümle",
+  "kap": "Terapi Süreci",
+  "video": "s/s038.mp4"
+ },
+ {
+  "id": "s039",
+  "gun": 13,
+  "saat": "21:00",
+  "baslik": "Aynı karşılaşmada iki farklı anlatım",
+  "kap": "Yalnızlık",
+  "video": "s/s039.mp4"
+ },
+ {
+  "id": "s040",
+  "gun": 14,
+  "saat": "08:30",
+  "baslik": "Yalnızlığın seni ne kadar yorduğu",
+  "kap": "Uyku",
+  "video": "s/s040.mp4"
+ },
+ {
+  "id": "s041",
+  "gun": 14,
+  "saat": "13:00",
+  "baslik": "Randevu almaktan kaçınıyorsan",
+  "kap": "Terapi Süreci",
+  "video": "s/s041.mp4"
+ },
+ {
+  "id": "s042",
+  "gun": 14,
+  "saat": "21:00",
+  "baslik": "İlk farkı ne zaman hissedersin",
+  "kap": "Terapi Süreci",
+  "video": "s/s042.mp4"
+ },
+ {
+  "id": "s043",
+  "gun": 15,
+  "saat": "08:30",
+  "baslik": "Karar veremiyorsan dört soru",
+  "kap": "Terapi Süreci",
+  "video": "s/s043.mp4"
+ },
+ {
+  "id": "s044",
+  "gun": 15,
+  "saat": "13:00",
+  "baslik": "İnsan çoğu zaman kaybetmekten korktuğu için kaybediyor.",
+  "kap": "Terapi Süreci",
+  "video": "s/s044.mp4"
+ },
+ {
+  "id": "s045",
+  "gun": 15,
+  "saat": "21:00",
+  "baslik": "Enerjin bugün nerede?",
+  "kap": "Depresyon",
+  "video": "s/s045.mp4"
+ },
+ {
+  "id": "s046",
+  "gun": 16,
+  "saat": "08:30",
+  "baslik": "İnsanlar beni değiştiremiyor",
+  "kap": "Yalnızlık",
+  "video": "s/s046.mp4"
+ },
+ {
+  "id": "s047",
+  "gun": 16,
+  "saat": "13:00",
+  "baslik": "3",
+  "kap": "Soru-Cevap",
+  "video": "s/s047.mp4"
+ },
+ {
+  "id": "s048",
+  "gun": 16,
+  "saat": "21:00",
+  "baslik": "Kendine sorup cevaplamadığın sorular",
+  "kap": "Terapi Süreci",
+  "video": "s/s048.mp4"
+ },
+ {
+  "id": "s049",
+  "gun": 17,
+  "saat": "08:30",
+  "baslik": "Herkes meşgul, neden yalnızım?",
+  "kap": "Yalnızlık",
+  "video": "s/s049.mp4"
+ },
+ {
+  "id": "s050",
+  "gun": 17,
+  "saat": "13:00",
+  "baslik": "Seansa gelmeden önce söylenenler",
+  "kap": "Terapi Süreci",
+  "video": "s/s050.mp4"
+ },
+ {
+  "id": "s051",
+  "gun": 17,
+  "saat": "21:00",
+  "baslik": "Hata karşısında iki tepki",
+  "kap": "İlişkiler",
+  "video": "s/s051.mp4"
+ },
+ {
+  "id": "s052",
+  "gun": 18,
+  "saat": "08:30",
+  "baslik": "Gerginliği indiren dört adım",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s052.mp4"
+ },
+ {
+  "id": "s053",
+  "gun": 18,
+  "saat": "13:00",
+  "baslik": "Bazen iyi olmak da bir iş.",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s053.mp4"
+ },
+ {
+  "id": "s054",
+  "gun": 18,
+  "saat": "21:00",
+  "baslik": "İşten sonra seni ne tutuyor?",
+  "kap": "İlişkiler",
+  "video": "s/s054.mp4"
+ },
+ {
+  "id": "s055",
+  "gun": 19,
+  "saat": "08:30",
+  "baslik": "Kendim için bir şey yapmam gerekiyor",
+  "kap": "Soru-Cevap",
+  "video": "s/s055.mp4"
+ },
+ {
+  "id": "s056",
+  "gun": 19,
+  "saat": "13:00",
+  "baslik": "%25",
+  "kap": "Uyku",
+  "video": "s/s056.mp4"
+ },
+ {
+  "id": "s057",
+  "gun": 19,
+  "saat": "21:00",
+  "baslik": "Soru sormak yerine dersen",
+  "kap": "Ebeveyn",
+  "video": "s/s057.mp4"
+ },
+ {
+  "id": "s058",
+  "gun": 20,
+  "saat": "08:30",
+  "baslik": "\"Benim bir sorunum yok\"",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s058.mp4"
+ },
+ {
+  "id": "s059",
+  "gun": 20,
+  "saat": "13:00",
+  "baslik": "Panik atağı sonrasında ne yapılır",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s059.mp4"
+ },
+ {
+  "id": "s060",
+  "gun": 20,
+  "saat": "21:00",
+  "baslik": "Ebeveyn terapiye girdiğinde",
+  "kap": "Ebeveyn",
+  "video": "s/s060.mp4"
+ },
+ {
+  "id": "s061",
+  "gun": 21,
+  "saat": "08:30",
+  "baslik": "Gelecek kaygısını durdurmanın yolu",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s061.mp4"
+ },
+ {
+  "id": "s062",
+  "gun": 21,
+  "saat": "13:00",
+  "baslik": "En çok konuşan insan, en çok yalnız olanı değildir.",
+  "kap": "Yalnızlık",
+  "video": "s/s062.mp4"
+ },
+ {
+  "id": "s063",
+  "gun": 21,
+  "saat": "21:00",
+  "baslik": "En çok hangisine inanıyorsun?",
+  "kap": "Soru-Cevap",
+  "video": "s/s063.mp4"
+ },
+ {
+  "id": "s064",
+  "gun": 22,
+  "saat": "08:30",
+  "baslik": "Affetmek her şeyi çözer",
+  "kap": "İlişkiler",
+  "video": "s/s064.mp4"
+ },
+ {
+  "id": "s065",
+  "gun": 22,
+  "saat": "13:00",
+  "baslik": "2",
+  "kap": "İlişkiler",
+  "video": "s/s065.mp4"
+ },
+ {
+  "id": "s066",
+  "gun": 22,
+  "saat": "21:00",
+  "baslik": "Sınava çalışırken yapılan hata",
+  "kap": "Ebeveyn",
+  "video": "s/s066.mp4"
+ },
+ {
+  "id": "s067",
+  "gun": 23,
+  "saat": "08:30",
+  "baslik": "Neden hep affediliyorum?",
+  "kap": "İlişkiler",
+  "video": "s/s067.mp4"
+ },
+ {
+  "id": "s068",
+  "gun": 23,
+  "saat": "13:00",
+  "baslik": "Bana en çok sorulan soru",
+  "kap": "Terapi Süreci",
+  "video": "s/s068.mp4"
+ },
+ {
+  "id": "s069",
+  "gun": 23,
+  "saat": "21:00",
+  "baslik": "Özür isterken iki cümle",
+  "kap": "İlişkiler",
+  "video": "s/s069.mp4"
+ },
+ {
+  "id": "s070",
+  "gun": 24,
+  "saat": "08:30",
+  "baslik": "Bugün kendini kaç tanıyorsun?",
+  "kap": "Soru-Cevap",
+  "video": "s/s070.mp4"
+ },
+ {
+  "id": "s071",
+  "gun": 24,
+  "saat": "13:00",
+  "baslik": "Kendini tanımak için ilk adım",
+  "kap": "Randevu",
+  "video": "s/s071.mp4"
+ },
+ {
+  "id": "s072",
+  "gun": 24,
+  "saat": "21:00",
+  "baslik": "Terapiye gelmeden önce yapılanlar",
+  "kap": "Yalnızlık",
+  "video": "s/s072.mp4"
+ },
+ {
+  "id": "s073",
+  "gun": 25,
+  "saat": "08:30",
+  "baslik": "Stresle başa çıkmanın dört yolu",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s073.mp4"
+ },
+ {
+  "id": "s074",
+  "gun": 25,
+  "saat": "13:00",
+  "baslik": "İnsan çoğu zaman haklı olduğu için değil, bununması için susar.",
+  "kap": "İlişkiler",
+  "video": "s/s074.mp4"
+ },
+ {
+  "id": "s075",
+  "gun": 25,
+  "saat": "21:00",
+  "baslik": "Bugün kendini nasıl hissediyorsun?",
+  "kap": "Soru-Cevap",
+  "video": "s/s075.mp4"
+ },
+ {
+  "id": "s076",
+  "gun": 26,
+  "saat": "08:30",
+  "baslik": "Aynaya bakınca ilk ne görüyorsun?",
+  "kap": "Uyku",
+  "video": "s/s076.mp4"
+ },
+ {
+  "id": "s077",
+  "gun": 26,
+  "saat": "13:00",
+  "baslik": "Toplantı öncesi dört adım",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s077.mp4"
+ },
+ {
+  "id": "s078",
+  "gun": 26,
+  "saat": "21:00",
+  "baslik": "Cesaret, korkusuzluk değil. Korkarken bir adım atabilmektir.",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s078.mp4"
+ },
+ {
+  "id": "s079",
+  "gun": 27,
+  "saat": "08:30",
+  "baslik": "İnsanlar beni değiştiremez",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s079.mp4"
+ },
+ {
+  "id": "s080",
+  "gun": 27,
+  "saat": "13:00",
+  "baslik": "%20",
+  "kap": "Uyku",
+  "video": "s/s080.mp4"
+ },
+ {
+  "id": "s081",
+  "gun": 27,
+  "saat": "21:00",
+  "baslik": "Seans arasında en çok ne değişiyor",
+  "kap": "Terapi Süreci",
+  "video": "s/s081.mp4"
+ },
+ {
+  "id": "s082",
+  "gun": 28,
+  "saat": "08:30",
+  "baslik": "\"Annemi arayacağım\"",
+  "kap": "Yalnızlık",
+  "video": "s/s082.mp4"
+ },
+ {
+  "id": "s083",
+  "gun": 28,
+  "saat": "13:00",
+  "baslik": "Suçluluk hissi geldiğinde",
+  "kap": "İlişkiler",
+  "video": "s/s083.mp4"
+ },
+ {
+  "id": "s084",
+  "gun": 28,
+  "saat": "21:00",
+  "baslik": "Bir hata karşısında senin ilk cümlen",
+  "kap": "İlişkiler",
+  "video": "s/s084.mp4"
+ },
+ {
+  "id": "s085",
+  "gun": 29,
+  "saat": "08:30",
+  "baslik": "Yataktan kalkmayı dört yolla bağla",
+  "kap": "Depresyon",
+  "video": "s/s085.mp4"
+ },
+ {
+  "id": "s086",
+  "gun": 29,
+  "saat": "13:00",
+  "baslik": "İnsan çoğu zaman yaptığı şeyi değil, söyleyemediği şeyi taşır.",
+  "kap": "Yalnızlık",
+  "video": "s/s086.mp4"
+ },
+ {
+  "id": "s087",
+  "gun": 29,
+  "saat": "21:00",
+  "baslik": "Hayatındaki en ağır şey şu an ne?",
+  "kap": "Soru-Cevap",
+  "video": "s/s087.mp4"
+ },
+ {
+  "id": "s088",
+  "gun": 30,
+  "saat": "08:30",
+  "baslik": "Affetmek zorunda değil",
+  "kap": "İlişkiler",
+  "video": "s/s088.mp4"
+ },
+ {
+  "id": "s089",
+  "gun": 30,
+  "saat": "13:00",
+  "baslik": "1",
+  "kap": "İlişkiler",
+  "video": "s/s089.mp4"
+ },
+ {
+  "id": "s090",
+  "gun": 30,
+  "saat": "21:00",
+  "baslik": "Dinlemenin beş ışareti",
+  "kap": "Ebeveyn",
+  "video": "s/s090.mp4"
+ },
+ {
+  "id": "s091",
+  "gun": 31,
+  "saat": "08:30",
+  "baslik": "\"Kimseye hakikat söylemiyorum\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s091.mp4"
+ },
+ {
+  "id": "s092",
+  "gun": 31,
+  "saat": "13:00",
+  "baslik": "Danışanlarıma sık söylediğim bir şey",
+  "kap": "Terapi Süreci",
+  "video": "s/s092.mp4"
+ },
+ {
+  "id": "s093",
+  "gun": 31,
+  "saat": "21:00",
+  "baslik": "Bugün kendine ne kadar zaman ayırdın?",
+  "kap": "Depresyon",
+  "video": "s/s093.mp4"
+ },
+ {
+  "id": "s094",
+  "gun": 32,
+  "saat": "08:30",
+  "baslik": "İş stresini dört adımda boşalt",
+  "kap": "İlişkiler",
+  "video": "s/s094.mp4"
+ },
+ {
+  "id": "s095",
+  "gun": 32,
+  "saat": "13:00",
+  "baslik": "İnsan, anlatılmadığı yerde kendini kaybetmeye başlar.",
+  "kap": "İlişkiler",
+  "video": "s/s095.mp4"
+ },
+ {
+  "id": "s096",
+  "gun": 32,
+  "saat": "21:00",
+  "baslik": "İlişkide en çok ne zorlanıyorsun?",
+  "kap": "İlişkiler",
+  "video": "s/s096.mp4"
+ },
+ {
+  "id": "s097",
+  "gun": 33,
+  "saat": "08:30",
+  "baslik": "Hayatım güzel olsa şikâyet etmem",
+  "kap": "Yalnızlık",
+  "video": "s/s097.mp4"
+ },
+ {
+  "id": "s098",
+  "gun": 33,
+  "saat": "13:00",
+  "baslik": "6",
+  "kap": "Terapi Süreci",
+  "video": "s/s098.mp4"
+ },
+ {
+  "id": "s099",
+  "gun": 33,
+  "saat": "21:00",
+  "baslik": "Aşırı yüklenmenin düşmanı",
+  "kap": "Depresyon",
+  "video": "s/s099.mp4"
+ },
+ {
+  "id": "s100",
+  "gun": 34,
+  "saat": "08:30",
+  "baslik": "\"Herkesin işi var\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s100.mp4"
+ },
+ {
+  "id": "s101",
+  "gun": 34,
+  "saat": "13:00",
+  "baslik": "Terapiye gidemiyorsan şimdilik",
+  "kap": "Randevu",
+  "video": "s/s101.mp4"
+ },
+ {
+  "id": "s102",
+  "gun": 34,
+  "saat": "21:00",
+  "baslik": "\"Beni anlamıyorsun\" arkasında ne var?",
+  "kap": "İlişkiler",
+  "video": "s/s102.mp4"
+ },
+ {
+  "id": "s103",
+  "gun": 35,
+  "saat": "08:30",
+  "baslik": "Tükenmişlikte dört kural",
+  "kap": "Uyku",
+  "video": "s/s103.mp4"
+ },
+ {
+  "id": "s104",
+  "gun": 35,
+  "saat": "13:00",
+  "baslik": "Herkes seni anlamak zorunda değil .",
+  "kap": "Soru-Cevap",
+  "video": "s/s104.mp4"
+ },
+ {
+  "id": "s105",
+  "gun": 35,
+  "saat": "21:00",
+  "baslik": "Sabah kalktığında ilk hissettiklerin",
+  "kap": "Uyku",
+  "video": "s/s105.mp4"
+ },
+ {
+  "id": "s106",
+  "gun": 36,
+  "saat": "08:30",
+  "baslik": "Güçlü olmak sessiz olmaktır",
+  "kap": "İlişkiler",
+  "video": "s/s106.mp4"
+ },
+ {
+  "id": "s107",
+  "gun": 36,
+  "saat": "13:00",
+  "baslik": "4",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s107.mp4"
+ },
+ {
+  "id": "s108",
+  "gun": 36,
+  "saat": "21:00",
+  "baslik": "Sınır koyarken dikkat edilecekler",
+  "kap": "İlişkiler",
+  "video": "s/s108.mp4"
+ },
+ {
+  "id": "s109",
+  "gun": 37,
+  "saat": "08:30",
+  "baslik": "\"Neden hep ben telafi ediyorum?\"",
+  "kap": "Yalnızlık",
+  "video": "s/s109.mp4"
+ },
+ {
+  "id": "s110",
+  "gun": 37,
+  "saat": "13:00",
+  "baslik": "Seanslar arasında bana en çok sorulan",
+  "kap": "Terapi Süreci",
+  "video": "s/s110.mp4"
+ },
+ {
+  "id": "s111",
+  "gun": 37,
+  "saat": "21:00",
+  "baslik": "Sınır koyduktan sonra ne olur",
+  "kap": "İlişkiler",
+  "video": "s/s111.mp4"
+ },
+ {
+  "id": "s112",
+  "gun": 38,
+  "saat": "08:30",
+  "baslik": "İlk teması dört adım",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s112.mp4"
+ },
+ {
+  "id": "s113",
+  "gun": 38,
+  "saat": "13:00",
+  "baslik": "Yalnızlık bazen kimseyle olmaktan gelir.",
+  "kap": "Yalnızlık",
+  "video": "s/s113.mp4"
+ },
+ {
+  "id": "s114",
+  "gun": 38,
+  "saat": "21:00",
+  "baslik": "Yalnızlık sana ne anlatıyor?",
+  "kap": "Yalnızlık",
+  "video": "s/s114.mp4"
+ },
+ {
+  "id": "s115",
+  "gun": 39,
+  "saat": "08:30",
+  "baslik": "İyi eş her şeyi anlar",
+  "kap": "İlişkiler",
+  "video": "s/s115.mp4"
+ },
+ {
+  "id": "s116",
+  "gun": 39,
+  "saat": "13:00",
+  "baslik": "4",
+  "kap": "Depresyon",
+  "video": "s/s116.mp4"
+ },
+ {
+  "id": "s117",
+  "gun": 39,
+  "saat": "21:00",
+  "baslik": "Sabah rutini için beş şey",
+  "kap": "Uyku",
+  "video": "s/s117.mp4"
+ },
+ {
+  "id": "s118",
+  "gun": 40,
+  "saat": "08:30",
+  "baslik": "\"Sana bir şey sormam lazım\"",
+  "kap": "Terapi Süreci",
+  "video": "s/s118.mp4"
+ },
+ {
+  "id": "s119",
+  "gun": 40,
+  "saat": "13:00",
+  "baslik": "Seans başında ne yapmayın",
+  "kap": "Terapi Süreci",
+  "video": "s/s119.mp4"
+ },
+ {
+  "id": "s120",
+  "gun": 40,
+  "saat": "21:00",
+  "baslik": "Kırgınken iki cümle",
+  "kap": "İlişkiler",
+  "video": "s/s120.mp4"
+ },
+ {
+  "id": "s121",
+  "gun": 41,
+  "saat": "08:30",
+  "baslik": "Verilmiş kararı geri almak",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s121.mp4"
+ },
+ {
+  "id": "s122",
+  "gun": 41,
+  "saat": "13:00",
+  "baslik": "Bazı insanlar seni iyileştirmek için yorar.",
+  "kap": "Soru-Cevap",
+  "video": "s/s122.mp4"
+ },
+ {
+  "id": "s123",
+  "gun": 41,
+  "saat": "21:00",
+  "baslik": "En çok hangisini erteliyorsun?",
+  "kap": "İlişkiler",
+  "video": "s/s123.mp4"
+ },
+ {
+  "id": "s124",
+  "gun": 42,
+  "saat": "08:30",
+  "baslik": "Herkesle aynı olmak gerek",
+  "kap": "İlişkiler",
+  "video": "s/s124.mp4"
+ },
+ {
+  "id": "s125",
+  "gun": 42,
+  "saat": "13:00",
+  "baslik": "7",
+  "kap": "Uyku",
+  "video": "s/s125.mp4"
+ },
+ {
+  "id": "s126",
+  "gun": 42,
+  "saat": "21:00",
+  "baslik": "Gençlerde sık sapılan beş nokta",
+  "kap": "İlişkiler",
+  "video": "s/s126.mp4"
+ },
+ {
+  "id": "s127",
+  "gun": 43,
+  "saat": "08:30",
+  "baslik": "\"Yeter ki kimse bilmesin\"",
+  "kap": "Yalnızlık",
+  "video": "s/s127.mp4"
+ },
+ {
+  "id": "s128",
+  "gun": 43,
+  "saat": "13:00",
+  "baslik": "Sabah kalkamıyorsan",
+  "kap": "Uyku",
+  "video": "s/s128.mp4"
+ },
+ {
+  "id": "s129",
+  "gun": 43,
+  "saat": "21:00",
+  "baslik": "Yeni bir alışkanlık neden zor başlar",
+  "kap": "Terapi Süreci",
+  "video": "s/s129.mp4"
+ },
+ {
+  "id": "s130",
+  "gun": 44,
+  "saat": "08:30",
+  "baslik": "Gece zihnini durduran dört adım",
+  "kap": "Uyku",
+  "video": "s/s130.mp4"
+ },
+ {
+  "id": "s131",
+  "gun": 44,
+  "saat": "13:00",
+  "baslik": "İnsan çoğu zaman kaygısını saklamakla meşgul.",
+  "kap": "Soru-Cevap",
+  "video": "s/s131.mp4"
+ },
+ {
+  "id": "s132",
+  "gun": 44,
+  "saat": "21:00",
+  "baslik": "Kaygını nasıl taşıyorsun?",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s132.mp4"
+ },
+ {
+  "id": "s133",
+  "gun": 45,
+  "saat": "08:30",
+  "baslik": "Sabırlı olmam gereken anlar",
+  "kap": "Terapi Süreci",
+  "video": "s/s133.mp4"
+ },
+ {
+  "id": "s134",
+  "gun": 45,
+  "saat": "13:00",
+  "baslik": "Yalnız kalmak istersen",
+  "kap": "Yalnızlık",
+  "video": "s/s134.mp4"
+ },
+ {
+  "id": "s135",
+  "gun": 45,
+  "saat": "21:00",
+  "baslik": "İnsanlar benim gibi değil",
+  "kap": "İlişkiler",
+  "video": "s/s135.mp4"
+ },
+ {
+  "id": "s136",
+  "gun": 46,
+  "saat": "08:30",
+  "baslik": "2",
+  "kap": "Depresyon",
+  "video": "s/s136.mp4"
+ },
+ {
+  "id": "s137",
+  "gun": 46,
+  "saat": "13:00",
+  "baslik": "Bir dakikada yapılacak beş şey",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s137.mp4"
+ },
+ {
+  "id": "s138",
+  "gun": 46,
+  "saat": "21:00",
+  "baslik": "\"Kimseye anlatamam\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s138.mp4"
+ },
+ {
+  "id": "s139",
+  "gun": 47,
+  "saat": "08:30",
+  "baslik": "Terapiye gelmeden önce bilinmesi gereken",
+  "kap": "Terapi Süreci",
+  "video": "s/s139.mp4"
+ },
+ {
+  "id": "s140",
+  "gun": 47,
+  "saat": "13:00",
+  "baslik": "Hatırladığın çocukluk",
+  "kap": "Ebeveyn",
+  "video": "s/s140.mp4"
+ },
+ {
+  "id": "s141",
+  "gun": 47,
+  "saat": "21:00",
+  "baslik": "Tartışmadan sonra dört adım",
+  "kap": "İlişkiler",
+  "video": "s/s141.mp4"
+ },
+ {
+  "id": "s142",
+  "gun": 48,
+  "saat": "08:30",
+  "baslik": "Affetmek, unutmak değildir.",
+  "kap": "İlişkiler",
+  "video": "s/s142.mp4"
+ },
+ {
+  "id": "s143",
+  "gun": 48,
+  "saat": "13:00",
+  "baslik": "Bir kavgadan sonra ne yapıyorsun?",
+  "kap": "Soru-Cevap",
+  "video": "s/s143.mp4"
+ },
+ {
+  "id": "s144",
+  "gun": 48,
+  "saat": "21:00",
+  "baslik": "Duygularımı bilmem gerekiyor",
+  "kap": "Terapi Süreci",
+  "video": "s/s144.mp4"
+ },
+ {
+  "id": "s145",
+  "gun": 49,
+  "saat": "08:30",
+  "baslik": "4",
+  "kap": "İlişkiler",
+  "video": "s/s145.mp4"
+ },
+ {
+  "id": "s146",
+  "gun": 49,
+  "saat": "13:00",
+  "baslik": "Dinlemiyormuş gibi görünmenin sebepleri",
+  "kap": "Soru-Cevap",
+  "video": "s/s146.mp4"
+ },
+ {
+  "id": "s147",
+  "gun": 49,
+  "saat": "21:00",
+  "baslik": "\"Sana bir şey söyleyemedim\"",
+  "kap": "İlişkiler",
+  "video": "s/s147.mp4"
+ },
+ {
+  "id": "s148",
+  "gun": 50,
+  "saat": "08:30",
+  "baslik": "Hayat taşması geldiğinde",
+  "kap": "İlişkiler",
+  "video": "s/s148.mp4"
+ },
+ {
+  "id": "s149",
+  "gun": 50,
+  "saat": "13:00",
+  "baslik": "Travma sonrası iyileşme",
+  "kap": "İlişkiler",
+  "video": "s/s149.mp4"
+ },
+ {
+  "id": "s150",
+  "gun": 50,
+  "saat": "21:00",
+  "baslik": "Yeniden dünyaya dönmenin dört adımı",
+  "kap": "İlişkiler",
+  "video": "s/s150.mp4"
+ },
+ {
+  "id": "s151",
+  "gun": 51,
+  "saat": "08:30",
+  "baslik": "En çok hangisini saklıyorsun?",
+  "kap": "Soru-Cevap",
+  "video": "s/s151.mp4"
+ },
+ {
+  "id": "s152",
+  "gun": 51,
+  "saat": "13:00",
+  "baslik": "Kızgınlığı dört adımda boşalt",
+  "kap": "İlişkiler",
+  "video": "s/s152.mp4"
+ },
+ {
+  "id": "s153",
+  "gun": 51,
+  "saat": "21:00",
+  "baslik": "İnsan, anlaşılmadığını sandığı anda susar.",
+  "kap": "İlişkiler",
+  "video": "s/s153.mp4"
+ },
+ {
+  "id": "s154",
+  "gun": 52,
+  "saat": "08:30",
+  "baslik": "Öfke her zaman haklıdır",
+  "kap": "İlişkiler",
+  "video": "s/s154.mp4"
+ },
+ {
+  "id": "s155",
+  "gun": 52,
+  "saat": "13:00",
+  "baslik": "20",
+  "kap": "Uyku",
+  "video": "s/s155.mp4"
+ },
+ {
+  "id": "s156",
+  "gun": 52,
+  "saat": "21:00",
+  "baslik": "Seanslarda en çok duyduğum cümle",
+  "kap": "Terapi Süreci",
+  "video": "s/s156.mp4"
+ },
+ {
+  "id": "s157",
+  "gun": 53,
+  "saat": "08:30",
+  "baslik": "\"Herkesi kontrol etmem gerekiyor\"",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s157.mp4"
+ },
+ {
+  "id": "s158",
+  "gun": 53,
+  "saat": "13:00",
+  "baslik": "Kontrol etme ihtiyacıyla başa çıkmak",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s158.mp4"
+ },
+ {
+  "id": "s159",
+  "gun": 53,
+  "saat": "21:00",
+  "baslik": "Reddedildiğinde verdiğin ilk cevap",
+  "kap": "İlişkiler",
+  "video": "s/s159.mp4"
+ },
+ {
+  "id": "s160",
+  "gun": 54,
+  "saat": "08:30",
+  "baslik": "Bugünü iyi geçirmenin dört yolu",
+  "kap": "Yalnızlık",
+  "video": "s/s160.mp4"
+ },
+ {
+  "id": "s161",
+  "gun": 54,
+  "saat": "13:00",
+  "baslik": "Mutluluk bir hedef değil, bir alışkanlıktır .",
+  "kap": "Soru-Cevap",
+  "video": "s/s161.mp4"
+ },
+ {
+  "id": "s162",
+  "gun": 54,
+  "saat": "21:00",
+  "baslik": "Bugün seni en çok ne mutlu etti?",
+  "kap": "Soru-Cevap",
+  "video": "s/s162.mp4"
+ },
+ {
+  "id": "s163",
+  "gun": 55,
+  "saat": "08:30",
+  "baslik": "Kendime vakit ayırmak lüks",
+  "kap": "Uyku",
+  "video": "s/s163.mp4"
+ },
+ {
+  "id": "s164",
+  "gun": 55,
+  "saat": "13:00",
+  "baslik": "23",
+  "kap": "Soru-Cevap",
+  "video": "s/s164.mp4"
+ },
+ {
+  "id": "s165",
+  "gun": 55,
+  "saat": "21:00",
+  "baslik": "Odaklanmayı bozan beş şey",
+  "kap": "Uyku",
+  "video": "s/s165.mp4"
+ },
+ {
+  "id": "s166",
+  "gun": 56,
+  "saat": "08:30",
+  "baslik": "\"Başarılı olmak zorundayım\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s166.mp4"
+ },
+ {
+  "id": "s167",
+  "gun": 56,
+  "saat": "13:00",
+  "baslik": "Danışanlarımdan duyduğum en zor soru",
+  "kap": "Terapi Süreci",
+  "video": "s/s167.mp4"
+ },
+ {
+  "id": "s168",
+  "gun": 56,
+  "saat": "21:00",
+  "baslik": "Terapi sonrası ne kalır geriye",
+  "kap": "Terapi Süreci",
+  "video": "s/s168.mp4"
+ },
+ {
+  "id": "s169",
+  "gun": 57,
+  "saat": "08:30",
+  "baslik": "Kendini tanımanın dört adımı",
+  "kap": "Randevu",
+  "video": "s/s169.mp4"
+ },
+ {
+  "id": "s170",
+  "gun": 57,
+  "saat": "13:00",
+  "baslik": "İnsan çoğu zaman korktuğunu düşündüğü şeyi yapmaz.",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s170.mp4"
+ },
+ {
+  "id": "s171",
+  "gun": 57,
+  "saat": "21:00",
+  "baslik": "En çok neyden kaçınıyorsun?",
+  "kap": "Yalnızlık",
+  "video": "s/s171.mp4"
+ },
+ {
+  "id": "s172",
+  "gun": 58,
+  "saat": "08:30",
+  "baslik": "Kendini korumak kibir mi?",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s172.mp4"
+ },
+ {
+  "id": "s173",
+  "gun": 58,
+  "saat": "13:00",
+  "baslik": "5",
+  "kap": "Uyku",
+  "video": "s/s173.mp4"
+ },
+ {
+  "id": "s174",
+  "gun": 58,
+  "saat": "21:00",
+  "baslik": "Kendini tanımaya başla",
+  "kap": "Yalnızlık",
+  "video": "s/s174.mp4"
+ },
+ {
+  "id": "s175",
+  "gun": 59,
+  "saat": "08:30",
+  "baslik": "\"Herkes benden daha başarılı\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s175.mp4"
+ },
+ {
+  "id": "s176",
+  "gun": 59,
+  "saat": "13:00",
+  "baslik": "Bir sınavı nasıl geçersin?",
+  "kap": "Ebeveyn",
+  "video": "s/s176.mp4"
+ },
+ {
+  "id": "s177",
+  "gun": 59,
+  "saat": "21:00",
+  "baslik": "Seanslarda geçen en sık iki duygu",
+  "kap": "İlişkiler",
+  "video": "s/s177.mp4"
+ },
+ {
+  "id": "s178",
+  "gun": 60,
+  "saat": "08:30",
+  "baslik": "Yalnızlığı azaltmanın dört yolu",
+  "kap": "Yalnızlık",
+  "video": "s/s178.mp4"
+ },
+ {
+  "id": "s179",
+  "gun": 60,
+  "saat": "13:00",
+  "baslik": "Yalnızlık bazen seçilmiş bir yalnızlıktır.",
+  "kap": "Yalnızlık",
+  "video": "s/s179.mp4"
+ },
+ {
+  "id": "s180",
+  "gun": 60,
+  "saat": "21:00",
+  "baslik": "Yalnızlığın şekli hangisi?",
+  "kap": "Yalnızlık",
+  "video": "s/s180.mp4"
+ },
+ {
+  "id": "s181",
+  "gun": 61,
+  "saat": "08:30",
+  "baslik": "Yalnız olmak sağlıklıdır",
+  "kap": "Yalnızlık",
+  "video": "s/s181.mp4"
+ },
+ {
+  "id": "s182",
+  "gun": 61,
+  "saat": "13:00",
+  "baslik": "3",
+  "kap": "Soru-Cevap",
+  "video": "s/s182.mp4"
+ },
+ {
+  "id": "s183",
+  "gun": 61,
+  "saat": "21:00",
+  "baslik": "Yas döneminde yapılması gerekenler",
+  "kap": "Soru-Cevap",
+  "video": "s/s183.mp4"
+ },
+ {
+  "id": "s184",
+  "gun": 62,
+  "saat": "08:30",
+  "baslik": "\"Kimseye haber veremedim\"",
+  "kap": "Yalnızlık",
+  "video": "s/s184.mp4"
+ },
+ {
+  "id": "s185",
+  "gun": 62,
+  "saat": "13:00",
+  "baslik": "Hayatın içinden çıkmadan başlamak",
+  "kap": "Soru-Cevap",
+  "video": "s/s185.mp4"
+ },
+ {
+  "id": "s186",
+  "gun": 62,
+  "saat": "21:00",
+  "baslik": "Teşekkür ederken ne dersin?",
+  "kap": "İlişkiler",
+  "video": "s/s186.mp4"
+ },
+ {
+  "id": "s187",
+  "gun": 63,
+  "saat": "08:30",
+  "baslik": "İlk seanstan önce dört şey",
+  "kap": "Terapi Süreci",
+  "video": "s/s187.mp4"
+ },
+ {
+  "id": "s188",
+  "gun": 63,
+  "saat": "13:00",
+  "baslik": "Terapi seninle birlikte yapılır.",
+  "kap": "Terapi Süreci",
+  "video": "s/s188.mp4"
+ },
+ {
+  "id": "s189",
+  "gun": 63,
+  "saat": "21:00",
+  "baslik": "Terapiye gitmeyi en çok ne engelliyor?",
+  "kap": "Soru-Cevap",
+  "video": "s/s189.mp4"
+ },
+ {
+  "id": "s190",
+  "gun": 64,
+  "saat": "08:30",
+  "baslik": "Terapi yalnızca bunalım için",
+  "kap": "Terapi Süreci",
+  "video": "s/s190.mp4"
+ },
+ {
+  "id": "s191",
+  "gun": 64,
+  "saat": "13:00",
+  "baslik": "50",
+  "kap": "Terapi Süreci",
+  "video": "s/s191.mp4"
+ },
+ {
+  "id": "s192",
+  "gun": 64,
+  "saat": "21:00",
+  "baslik": "Seanslar arasında yapılacak beş şey",
+  "kap": "Terapi Süreci",
+  "video": "s/s192.mp4"
+ },
+ {
+  "id": "s193",
+  "gun": 65,
+  "saat": "08:30",
+  "baslik": "\"İyileşmek istiyorum ama başlayamıyorum\"",
+  "kap": "Randevu",
+  "video": "s/s193.mp4"
+ },
+ {
+  "id": "s194",
+  "gun": 65,
+  "saat": "13:00",
+  "baslik": "Bana en çok sorulan ikinci soru",
+  "kap": "Terapi Süreci",
+  "video": "s/s194.mp4"
+ },
+ {
+  "id": "s195",
+  "gun": 65,
+  "saat": "21:00",
+  "baslik": "İlaç ve terapi birlikte nasıl yürür",
+  "kap": "Terapi Süreci",
+  "video": "s/s195.mp4"
+ },
+ {
+  "id": "s196",
+  "gun": 66,
+  "saat": "08:30",
+  "baslik": "İlişkide bağ kurmanın dört yolu",
+  "kap": "İlişkiler",
+  "video": "s/s196.mp4"
+ },
+ {
+  "id": "s197",
+  "gun": 66,
+  "saat": "13:00",
+  "baslik": "İnsan, sana güvenmediğini söyleyemez.",
+  "kap": "İlişkiler",
+  "video": "s/s197.mp4"
+ },
+ {
+  "id": "s198",
+  "gun": 66,
+  "saat": "21:00",
+  "baslik": "Güven sende mi, karşı tarafta mı?",
+  "kap": "İlişkiler",
+  "video": "s/s198.mp4"
+ },
+ {
+  "id": "s199",
+  "gun": 67,
+  "saat": "08:30",
+  "baslik": "Kıskançlık seviyormak demektir",
+  "kap": "Ebeveyn",
+  "video": "s/s199.mp4"
+ },
+ {
+  "id": "s200",
+  "gun": 67,
+  "saat": "13:00",
+  "baslik": "7",
+  "kap": "İlişkiler",
+  "video": "s/s200.mp4"
+ },
+ {
+  "id": "s201",
+  "gun": 67,
+  "saat": "21:00",
+  "baslik": "Tartışma bittikten sonra beş adım",
+  "kap": "İlişkiler",
+  "video": "s/s201.mp4"
+ },
+ {
+  "id": "s202",
+  "gun": 68,
+  "saat": "08:30",
+  "baslik": "\"Bana neden kızmıyorsun?\"",
+  "kap": "İlişkiler",
+  "video": "s/s202.mp4"
+ },
+ {
+  "id": "s203",
+  "gun": 68,
+  "saat": "13:00",
+  "baslik": "Küsmekten çıkmak",
+  "kap": "İlişkiler",
+  "video": "s/s203.mp4"
+ },
+ {
+  "id": "s204",
+  "gun": 68,
+  "saat": "21:00",
+  "baslik": "Küsmenin iki şekli",
+  "kap": "İlişkiler",
+  "video": "s/s204.mp4"
+ },
+ {
+  "id": "s205",
+  "gun": 69,
+  "saat": "08:30",
+  "baslik": "Çocuğunu dinlemeyen ebeveyn",
+  "kap": "Ebeveyn",
+  "video": "s/s205.mp4"
+ },
+ {
+  "id": "s206",
+  "gun": 69,
+  "saat": "13:00",
+  "baslik": "Çocuk, anlaşıldığını hissettiği yere konuşur.",
+  "kap": "Ebeveyn",
+  "video": "s/s206.mp4"
+ },
+ {
+  "id": "s207",
+  "gun": 69,
+  "saat": "21:00",
+  "baslik": "Çocuğun en çok neye ihtiyaç duyuyor?",
+  "kap": "Ebeveyn",
+  "video": "s/s207.mp4"
+ },
+ {
+  "id": "s208",
+  "gun": 70,
+  "saat": "08:30",
+  "baslik": "Çocuk her şeyi anlar",
+  "kap": "Ebeveyn",
+  "video": "s/s208.mp4"
+ },
+ {
+  "id": "s209",
+  "gun": 70,
+  "saat": "13:00",
+  "baslik": "13",
+  "kap": "Ebeveyn",
+  "video": "s/s209.mp4"
+ },
+ {
+  "id": "s210",
+  "gun": 70,
+  "saat": "21:00",
+  "baslik": "Ergenin yanında durmanın beş kuralı",
+  "kap": "Ebeveyn",
+  "video": "s/s210.mp4"
+ },
+ {
+  "id": "s211",
+  "gun": 71,
+  "saat": "08:30",
+  "baslik": "\"Bu kadar kimseye güvenebilir miyim?\"",
+  "kap": "İlişkiler",
+  "video": "s/s211.mp4"
+ },
+ {
+  "id": "s212",
+  "gun": 71,
+  "saat": "13:00",
+  "baslik": "Seanslarda en çok görülen alışkanlık",
+  "kap": "Terapi Süreci",
+  "video": "s/s212.mp4"
+ },
+ {
+  "id": "s213",
+  "gun": 71,
+  "saat": "21:00",
+  "baslik": "Bugün ne kadar streslisin?",
+  "kap": "Soru-Cevap",
+  "video": "s/s213.mp4"
+ },
+ {
+  "id": "s214",
+  "gun": 72,
+  "saat": "08:30",
+  "baslik": "Stresten çıkmak için dört kısa adım",
+  "kap": "Soru-Cevap",
+  "video": "s/s214.mp4"
+ },
+ {
+  "id": "s215",
+  "gun": 72,
+  "saat": "13:00",
+  "baslik": "Herkesin stresi kendi stresi gibi görünür.",
+  "kap": "Soru-Cevap",
+  "video": "s/s215.mp4"
+ },
+ {
+  "id": "s216",
+  "gun": 72,
+  "saat": "21:00",
+  "baslik": "Stresini nasıl çıkarıyorsun?",
+  "kap": "Soru-Cevap",
+  "video": "s/s216.mp4"
+ },
+ {
+  "id": "s217",
+  "gun": 73,
+  "saat": "08:30",
+  "baslik": "Duygularını bastırmak güçlülüktür",
+  "kap": "İlişkiler",
+  "video": "s/s217.mp4"
+ },
+ {
+  "id": "s218",
+  "gun": 73,
+  "saat": "13:00",
+  "baslik": "6",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s218.mp4"
+ },
+ {
+  "id": "s219",
+  "gun": 73,
+  "saat": "21:00",
+  "baslik": "Duyguna isim vermeyi öğren",
+  "kap": "İlişkiler",
+  "video": "s/s219.mp4"
+ },
+ {
+  "id": "s220",
+  "gun": 74,
+  "saat": "08:30",
+  "baslik": "\"Yapabileceğimi düşünüyorum\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s220.mp4"
+ },
+ {
+  "id": "s221",
+  "gun": 74,
+  "saat": "13:00",
+  "baslik": "Bırakmayı öğrenmek",
+  "kap": "Terapi Süreci",
+  "video": "s/s221.mp4"
+ },
+ {
+  "id": "s222",
+  "gun": 74,
+  "saat": "21:00",
+  "baslik": "Kontrol etmeyi bıraktığında",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s222.mp4"
+ },
+ {
+  "id": "s223",
+  "gun": 75,
+  "saat": "08:30",
+  "baslik": "Kendi hayatının gözlemcisi ol",
+  "kap": "Yalnızlık",
+  "video": "s/s223.mp4"
+ },
+ {
+  "id": "s224",
+  "gun": 75,
+  "saat": "13:00",
+  "baslik": "Hayatını birilerinin gözünden görmek zorunda değilsin.",
+  "kap": "Ebeveyn",
+  "video": "s/s224.mp4"
+ },
+ {
+  "id": "s225",
+  "gun": 75,
+  "saat": "21:00",
+  "baslik": "Bugün seni en çok ne yordu?",
+  "kap": "Soru-Cevap",
+  "video": "s/s225.mp4"
+ },
+ {
+  "id": "s226",
+  "gun": 76,
+  "saat": "08:30",
+  "baslik": "Bugün seni ne uyandırdı?",
+  "kap": "İlişkiler",
+  "video": "s/s226.mp4"
+ },
+ {
+  "id": "s227",
+  "gun": 76,
+  "saat": "13:00",
+  "baslik": "Derin çalışmanın dört kuralı",
+  "kap": "Yalnızlık",
+  "video": "s/s227.mp4"
+ },
+ {
+  "id": "s228",
+  "gun": 76,
+  "saat": "21:00",
+  "baslik": "Acele etmek çoğu zaman beklemekten daha yavaştır.",
+  "kap": "Terapi Süreci",
+  "video": "s/s228.mp4"
+ },
+ {
+  "id": "s229",
+  "gun": 77,
+  "saat": "08:30",
+  "baslik": "Her şeyi bilmeliyim",
+  "kap": "Terapi Süreci",
+  "video": "s/s229.mp4"
+ },
+ {
+  "id": "s230",
+  "gun": 77,
+  "saat": "13:00",
+  "baslik": "10",
+  "kap": "Terapi Süreci",
+  "video": "s/s230.mp4"
+ },
+ {
+  "id": "s231",
+  "gun": 77,
+  "saat": "21:00",
+  "baslik": "Karar vermeyi erteliyorsan",
+  "kap": "Soru-Cevap",
+  "video": "s/s231.mp4"
+ },
+ {
+  "id": "s232",
+  "gun": 78,
+  "saat": "08:30",
+  "baslik": "\"Ya olmazsa?\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s232.mp4"
+ },
+ {
+  "id": "s233",
+  "gun": 78,
+  "saat": "13:00",
+  "baslik": "Korktuğun işi nasıl yaparsın",
+  "kap": "Depresyon",
+  "video": "s/s233.mp4"
+ },
+ {
+  "id": "s234",
+  "gun": 78,
+  "saat": "21:00",
+  "baslik": "Risk alırken senin ölçütün ne?",
+  "kap": "Soru-Cevap",
+  "video": "s/s234.mp4"
+ },
+ {
+  "id": "s235",
+  "gun": 79,
+  "saat": "08:30",
+  "baslik": "Kötü senaryoyu nasıl sınırlarsın",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s235.mp4"
+ },
+ {
+  "id": "s236",
+  "gun": 79,
+  "saat": "13:00",
+  "baslik": "Zihin geleceği tasarlamaz , olasılıkları sıralar.",
+  "kap": "Depresyon",
+  "video": "s/s236.mp4"
+ },
+ {
+  "id": "s237",
+  "gun": 79,
+  "saat": "21:00",
+  "baslik": "En çok neyi erteliyorsun?",
+  "kap": "İlişkiler",
+  "video": "s/s237.mp4"
+ },
+ {
+  "id": "s238",
+  "gun": 80,
+  "saat": "08:30",
+  "baslik": "Korkmak bir zayıflıktır",
+  "kap": "Soru-Cevap",
+  "video": "s/s238.mp4"
+ },
+ {
+  "id": "s239",
+  "gun": 80,
+  "saat": "13:00",
+  "baslik": "30",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s239.mp4"
+ },
+ {
+  "id": "s240",
+  "gun": 80,
+  "saat": "21:00",
+  "baslik": "Kaygıyla başa çıkmanın beş kuralı",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s240.mp4"
+ },
+ {
+  "id": "s241",
+  "gun": 81,
+  "saat": "08:30",
+  "baslik": "\"Herkes benden daha emin\"",
+  "kap": "İlişkiler",
+  "video": "s/s241.mp4"
+ },
+ {
+  "id": "s242",
+  "gun": 81,
+  "saat": "13:00",
+  "baslik": "Seanslarda öğrendiğim bir şey daha",
+  "kap": "Terapi Süreci",
+  "video": "s/s242.mp4"
+ },
+ {
+  "id": "s243",
+  "gun": 81,
+  "saat": "21:00",
+  "baslik": "Bugün kaygın kaçtaydı?",
+  "kap": "Uyku",
+  "video": "s/s243.mp4"
+ },
+ {
+  "id": "s244",
+  "gun": 82,
+  "saat": "08:30",
+  "baslik": "Panikten sonra dört kural",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s244.mp4"
+ },
+ {
+  "id": "s245",
+  "gun": 82,
+  "saat": "13:00",
+  "baslik": "Panik, ne olduğunu bilmemekten doğar.",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s245.mp4"
+ },
+ {
+  "id": "s246",
+  "gun": 82,
+  "saat": "21:00",
+  "baslik": "Panik anında ilk ne yapıyorsun?",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s246.mp4"
+ },
+ {
+  "id": "s247",
+  "gun": 83,
+  "saat": "08:30",
+  "baslik": "Panik bir hastalık değil",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s247.mp4"
+ },
+ {
+  "id": "s248",
+  "gun": 83,
+  "saat": "13:00",
+  "baslik": "6",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s248.mp4"
+ },
+ {
+  "id": "s249",
+  "gun": 83,
+  "saat": "21:00",
+  "baslik": "Panik için önceden hazırlık",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s249.mp4"
+ },
+ {
+  "id": "s250",
+  "gun": 84,
+  "saat": "08:30",
+  "baslik": "\"Herkesin önünde donuyorum\"",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s250.mp4"
+ },
+ {
+  "id": "s251",
+  "gun": 84,
+  "saat": "13:00",
+  "baslik": "Toplantı öncesi son hazırlık",
+  "kap": "İlişkiler",
+  "video": "s/s251.mp4"
+ },
+ {
+  "id": "s252",
+  "gun": 84,
+  "saat": "21:00",
+  "baslik": "Bir odada iki konum",
+  "kap": "Depresyon",
+  "video": "s/s252.mp4"
+ },
+ {
+  "id": "s253",
+  "gun": 85,
+  "saat": "08:30",
+  "baslik": "Reddedilmemek için dört kural",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s253.mp4"
+ },
+ {
+  "id": "s254",
+  "gun": 85,
+  "saat": "13:00",
+  "baslik": "İnsan çoğu zaman göründüğü kişi olmak zorunda hisseder.",
+  "kap": "İlişkiler",
+  "video": "s/s254.mp4"
+ },
+ {
+  "id": "s255",
+  "gun": 85,
+  "saat": "21:00",
+  "baslik": "İnsanların önünde en çok ne zorlanırsın?",
+  "kap": "Soru-Cevap",
+  "video": "s/s255.mp4"
+ },
+ {
+  "id": "s256",
+  "gun": 86,
+  "saat": "08:30",
+  "baslik": "İnsanlar beni anlamıyor",
+  "kap": "İlişkiler",
+  "video": "s/s256.mp4"
+ },
+ {
+  "id": "s257",
+  "gun": 86,
+  "saat": "13:00",
+  "baslik": "12",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s257.mp4"
+ },
+ {
+  "id": "s258",
+  "gun": 86,
+  "saat": "21:00",
+  "baslik": "Bir ortama girerken beş şey",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s258.mp4"
+ },
+ {
+  "id": "s259",
+  "gun": 87,
+  "saat": "08:30",
+  "baslik": "\"Kimse beni aramıyor\"",
+  "kap": "Yalnızlık",
+  "video": "s/s259.mp4"
+ },
+ {
+  "id": "s260",
+  "gun": 87,
+  "saat": "13:00",
+  "baslik": "Kıyamet seviyesindeki telefon sesi",
+  "kap": "Terapi Süreci",
+  "video": "s/s260.mp4"
+ },
+ {
+  "id": "s261",
+  "gun": 87,
+  "saat": "21:00",
+  "baslik": "Sosyal fobide iyileşmenin aşamaları",
+  "kap": "İlişkiler",
+  "video": "s/s261.mp4"
+ },
+ {
+  "id": "s262",
+  "gun": 88,
+  "saat": "08:30",
+  "baslik": "Fotoğrafta kendini nasıl göstereceksin",
+  "kap": "İlişkiler",
+  "video": "s/s262.mp4"
+ },
+ {
+  "id": "s263",
+  "gun": 88,
+  "saat": "13:00",
+  "baslik": "Beğenilmek için değişmeye çalışmak, en pahalı özgüven kaybıdır.",
+  "kap": "İlişkiler",
+  "video": "s/s263.mp4"
+ },
+ {
+  "id": "s264",
+  "gun": 88,
+  "saat": "21:00",
+  "baslik": "Sana göre bir paylaşımı beğenmemek ne demek?",
+  "kap": "İlişkiler",
+  "video": "s/s264.mp4"
+ },
+ {
+  "id": "s265",
+  "gun": 89,
+  "saat": "08:30",
+  "baslik": "Sosyal medya zararlıdır",
+  "kap": "Terapi Süreci",
+  "video": "s/s265.mp4"
+ },
+ {
+  "id": "s266",
+  "gun": 89,
+  "saat": "13:00",
+  "baslik": "1",
+  "kap": "Uyku",
+  "video": "s/s266.mp4"
+ },
+ {
+  "id": "s267",
+  "gun": 89,
+  "saat": "21:00",
+  "baslik": "Bildirim kutunu sakinleştirmek",
+  "kap": "Uyku",
+  "video": "s/s267.mp4"
+ },
+ {
+  "id": "s268",
+  "gun": 90,
+  "saat": "08:30",
+  "baslik": "\"Herkesten ayrıyım\"",
+  "kap": "İlişkiler",
+  "video": "s/s268.mp4"
+ },
+ {
+  "id": "s269",
+  "gun": 90,
+  "saat": "13:00",
+  "baslik": "İçindeki sesi dışarı çıkarmak",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s269.mp4"
+ },
+ {
+  "id": "s270",
+  "gun": 90,
+  "saat": "21:00",
+  "baslik": "Sana yardım eden iki tür insan",
+  "kap": "İlişkiler",
+  "video": "s/s270.mp4"
+ },
+ {
+  "id": "s271",
+  "gun": 91,
+  "saat": "08:30",
+  "baslik": "Dikkati geri getirmenin dört adımı",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s271.mp4"
+ },
+ {
+  "id": "s272",
+  "gun": 91,
+  "saat": "13:00",
+  "baslik": "Çok iş yapan çok işini yapamıyordur.",
+  "kap": "Terapi Süreci",
+  "video": "s/s272.mp4"
+ },
+ {
+  "id": "s273",
+  "gun": 91,
+  "saat": "21:00",
+  "baslik": "Dikkatin en çok dağıldığı yer",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s273.mp4"
+ },
+ {
+  "id": "s274",
+  "gun": 92,
+  "saat": "08:30",
+  "baslik": "Disiplin her şeyi çözer",
+  "kap": "Ebeveyn",
+  "video": "s/s274.mp4"
+ },
+ {
+  "id": "s275",
+  "gun": 92,
+  "saat": "13:00",
+  "baslik": "66",
+  "kap": "Soru-Cevap",
+  "video": "s/s275.mp4"
+ },
+ {
+  "id": "s276",
+  "gun": 92,
+  "saat": "21:00",
+  "baslik": "Alışkanlık değiştirmenin beş kuralı",
+  "kap": "Yalnızlık",
+  "video": "s/s276.mp4"
+ },
+ {
+  "id": "s277",
+  "gun": 93,
+  "saat": "08:30",
+  "baslik": "\"Dünden beri erteliyorum\"",
+  "kap": "Soru-Cevap",
+  "video": "s/s277.mp4"
+ },
+ {
+  "id": "s278",
+  "gun": 93,
+  "saat": "13:00",
+  "baslik": "Seanslarda en çok duyduğum çözüm önerisi",
+  "kap": "Terapi Süreci",
+  "video": "s/s278.mp4"
+ },
+ {
+  "id": "s279",
+  "gun": 93,
+  "saat": "21:00",
+  "baslik": "Bugün motivasyonun kaçtaydı?",
+  "kap": "Depresyon",
+  "video": "s/s279.mp4"
+ },
+ {
+  "id": "s280",
+  "gun": 94,
+  "saat": "08:30",
+  "baslik": "İşten tükenmenin dört nedeni",
+  "kap": "Depresyon",
+  "video": "s/s280.mp4"
+ },
+ {
+  "id": "s281",
+  "gun": 94,
+  "saat": "13:00",
+  "baslik": "İnsan, takdir edilmeyi umarken görünmemeyi tercih eder.",
+  "kap": "İlişkiler",
+  "video": "s/s281.mp4"
+ },
+ {
+  "id": "s282",
+  "gun": 94,
+  "saat": "21:00",
+  "baslik": "İşinden en çok ne yoruyor?",
+  "kap": "Soru-Cevap",
+  "video": "s/s282.mp4"
+ },
+ {
+  "id": "s283",
+  "gun": 95,
+  "saat": "08:30",
+  "baslik": "İş hayatında duygular olmaz",
+  "kap": "Depresyon",
+  "video": "s/s283.mp4"
+ },
+ {
+  "id": "s284",
+  "gun": 95,
+  "saat": "13:00",
+  "baslik": "3",
+  "kap": "Soru-Cevap",
+  "video": "s/s284.mp4"
+ },
+ {
+  "id": "s285",
+  "gun": 95,
+  "saat": "21:00",
+  "baslik": "İşten tükenmemek için beş şey",
+  "kap": "İlişkiler",
+  "video": "s/s285.mp4"
+ },
+ {
+  "id": "s286",
+  "gun": 96,
+  "saat": "08:30",
+  "baslik": "\"İşe gitmek istemiyorum\"",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s286.mp4"
+ },
+ {
+  "id": "s287",
+  "gun": 96,
+  "saat": "13:00",
+  "baslik": "İş değişikliği yapmayı düşünüyorsan",
+  "kap": "Soru-Cevap",
+  "video": "s/s287.mp4"
+ },
+ {
+  "id": "s288",
+  "gun": 96,
+  "saat": "21:00",
+  "baslik": "İşini bırakmanın iki gerekçesi",
+  "kap": "Soru-Cevap",
+  "video": "s/s288.mp4"
+ },
+ {
+  "id": "s289",
+  "gun": 97,
+  "saat": "08:30",
+  "baslik": "Parayla ilgili düşünürken dört adım",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s289.mp4"
+ },
+ {
+  "id": "s290",
+  "gun": 97,
+  "saat": "13:00",
+  "baslik": "Para kaygısı, çoğu zaman geçmişten gelir.",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s290.mp4"
+ },
+ {
+  "id": "s291",
+  "gun": 97,
+  "saat": "21:00",
+  "baslik": "Para seni en çok ne zaman yoruyor?",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s291.mp4"
+ },
+ {
+  "id": "s292",
+  "gun": 98,
+  "saat": "08:30",
+  "baslik": "Az kazanmak az çalışmaktır",
+  "kap": "Yalnızlık",
+  "video": "s/s292.mp4"
+ },
+ {
+  "id": "s293",
+  "gun": 98,
+  "saat": "13:00",
+  "baslik": "2",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s293.mp4"
+ },
+ {
+  "id": "s294",
+  "gun": 98,
+  "saat": "21:00",
+  "baslik": "Yardım zamanını gösteren beş işaret",
+  "kap": "Yalnızlık",
+  "video": "s/s294.mp4"
+ },
+ {
+  "id": "s295",
+  "gun": 99,
+  "saat": "08:30",
+  "baslik": "\"Herkes iyiyken ben neden değilim?\"",
+  "kap": "Depresyon",
+  "video": "s/s295.mp4"
+ },
+ {
+  "id": "s296",
+  "gun": 99,
+  "saat": "13:00",
+  "baslik": "Danışanlarımdan duyduğum en tuhaf cümle",
+  "kap": "Terapi Süreci",
+  "video": "s/s296.mp4"
+ },
+ {
+  "id": "s297",
+  "gun": 99,
+  "saat": "21:00",
+  "baslik": "Hayatın içinde iyileşmenin yolu",
+  "kap": "Panik ve Kaygı",
+  "video": "s/s297.mp4"
+ },
+ {
+  "id": "s298",
+  "gun": 100,
+  "saat": "08:30",
+  "baslik": "Bugün başlamak için dört adım",
+  "kap": "Uyku",
+  "video": "s/s298.mp4"
+ },
+ {
+  "id": "s299",
+  "gun": 100,
+  "saat": "13:00",
+  "baslik": "Değişim, iyileşmekten önce başlar.",
+  "kap": "Soru-Cevap",
+  "video": "s/s299.mp4"
+ },
+ {
+  "id": "s300",
+  "gun": 100,
+  "saat": "21:00",
+  "baslik": "Yüz gün sonra sen nasılsın?",
+  "kap": "Terapi Süreci",
+  "video": "s/s300.mp4"
+ }
+]

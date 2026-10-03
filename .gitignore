@@ -1,0 +1,6 @@
+kaynak/
+public/
+*.log
+donustur.sh
+.vercel/
+.DS_Store

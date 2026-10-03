@@ -1,0 +1,9 @@
+kaynak
+*.log
+donustur.sh
+token-kaydet.sh
+token.enc
+yayinla.mjs
+.github
+kuyruk.json
+TAKVIM.md
