@@ -1,6 +1,6 @@
 # @uzm.pd.kursadpolat hikâye takvimi
 
-Saatler TR: 08:30 / 13:00 / 21:00. s001 2026-10-04 18:48'de çıktı; 2026-10-05'ten s002 ile devam, bitiş 2027-01-11 21:00 (s300).
+Saatler TR: 08:30 / 13:00 / 21:00. s001 2026-10-04 18:48'de çıktı; 2026-10-05'ten s002 ile devam, bitiş 2027-01-12 13:00 (s300).
 
 | Tarih | 08:30 | 13:00 | 21:00 |
 |---|---|---|---|
