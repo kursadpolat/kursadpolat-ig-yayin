@@ -1,12 +1,12 @@
 name: Instagram hikâye yayını
 on:
   schedule:
-    # GitHub cron'u gecikiyor/atlıyor: her 30 dk (yoğun olmayan dakikalarda) kontrol, saati gelmiş
+    # Asıl tetikleyici Cloudflare Worker (ig-tetikleyici, slot=oto). Bu cron yedek. GitHub cron'u gecikiyor/atlıyor: her 30 dk (yoğun olmayan dakikalarda) kontrol, saati gelmiş
     # ve paylaşılmamış slotu yayinla.mjs --otomatik bulur (08:30 / 13:00 / 21:00 TR). 05:17–21:47 TR.
     - cron: '17,47 2-18 * * *'
   workflow_dispatch:
     inputs:
-      slot: { description: 'slot (0/1/2)', required: true, default: '0' }
+      slot: { description: 'slot (0/1/2 veya oto)', required: true, default: '0' }
       tarih: { description: 'YYYY-MM-DD (boş = bugün)', required: false, default: '' }
       kuru: { description: 'sadece göster, paylaşma', type: boolean, default: true }
 concurrency: { group: instagram, cancel-in-progress: false }
@@ -20,6 +20,7 @@ jobs:
       MEDYA_URL: https://kursadpolat-medya.vercel.app
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }  # kuyrukta bekleyen çalışma da son yayinlanan.txt'yi görsün
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
       - name: Slot ve token
@@ -29,11 +30,11 @@ jobs:
           T=$(openssl enc -d -aes-256-cbc -pbkdf2 -a -A -in token.enc -pass env:TOKEN_KEY)
           echo "::add-mask::$T"; echo "IG_TOKEN=$T" >> $GITHUB_ENV
           # Pazartesi sabah token yenilenir (60 günlük ömür sürekli tazelenir)
-          if [ "${{ github.event_name }}" = schedule ] && [ "$(TZ=Europe/Istanbul date +%u%H)" = 108 ]; then echo "TOKEN_YENILE=1" >> $GITHUB_ENV; fi
+          if { [ "${{ github.event_name }}" = schedule ] || [ "${{ inputs.slot }}" = oto ]; } && [ "$(TZ=Europe/Istanbul date +%u%H)" = 108 ]; then echo "TOKEN_YENILE=1" >> $GITHUB_ENV; fi
       - name: Paylaş
         env: { YENI_TOKEN_DOSYA: '${{ runner.temp }}/yeni' }
         run: |
-          if [ "${{ github.event_name }}" = schedule ]; then node yayinla.mjs --otomatik; exit; fi
+          if [ "${{ github.event_name }}" = schedule ] || [ "$SLOT" = oto ]; then node yayinla.mjs --otomatik; exit; fi
           A="--slot=$SLOT"; [ -n "${{ inputs.tarih }}" ] && A="$A --tarih=${{ inputs.tarih }}"
           if [ "${{ inputs.kuru }}" = "true" ]; then node yayinla.mjs $A --kuru; else node yayinla.mjs $A; fi
       - name: Durumu ve yenilenen token'ı kaydet
