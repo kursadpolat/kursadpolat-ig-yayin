@@ -15,7 +15,7 @@ if (fs.existsSync(ENV_DOSYA)) for (const s of fs.readFileSync(ENV_DOSYA, 'utf8')
   const m = s.match(/^([A-Z_]+)=(.*)$/); if (m && !process.env[m[1]]) process.env[m[1]] = m[2].trim();
 }
 const arg = Object.fromEntries(process.argv.slice(2).map(a => { const [k, v] = a.replace(/^--/, '').split('='); return [k, v ?? true]; }));
-const AYAR = { dosya: 'kuyruk.json', gunluk: 3, baslangic: '2026-10-05', kayma: 0 };
+const AYAR = { dosya: 'kuyruk.json', gunluk: 3, baslangic: '2026-10-05', kayma: -1 }  // s001 4 Ekim'de çıktı; 5 Ekim s002'den devam;
 const kuyruk = JSON.parse(fs.readFileSync(new URL('./' + AYAR.dosya, import.meta.url), 'utf8'));
 const { IG_USER_ID, IG_TOKEN, MEDYA_URL } = process.env;
 const GRAPH = 'https://graph.instagram.com/v23.0';
