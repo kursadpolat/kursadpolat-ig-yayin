@@ -52,6 +52,23 @@ async function hazirBekle(id, sure = 60) {
   throw new Error('konteyner zaman aşımı: ' + id);
 }
 
+// --otomatik: GitHub cron'u güvenilmez (çalışmaları geciktiriyor, bazen hiç başlatmıyor). Workflow her
+// 30 dakikada bir çalışır; bugünün saati gelmiş ama yayinlanan.txt'de olmayan İLK slotu paylaşır.
+// Böylece kaçan bir çalışma bir sonrakinde telafi edilir, aynı hikâye iki kez gitmez. Önceki günün
+// kaçanları telafi edilmez (bayat olur), o slot atlanır.
+const SAATLER = ['08:30', '13:00', '21:00'];
+const DURUM = new URL('./yayinlanan.txt', import.meta.url);
+if (arg.otomatik) {
+  const simdi = new Date(Date.now() + 3 * 3600e3).toISOString().slice(11, 16);
+  const yapilan = new Set(fs.existsSync(DURUM) ? fs.readFileSync(DURUM, 'utf8').split('\n').filter(Boolean) : []);
+  let slot = -1;
+  for (let i = 0; i < SAATLER.length && SAATLER[i] <= simdi; i++) {
+    arg.slot = i; const c = icerikSec();
+    if (c && !yapilan.has(c.id)) { slot = i; break; }
+  }
+  if (slot < 0) { console.log(`${bugunTR()} ${simdi}: bekleyen slot yok.`); process.exit(0); }
+  arg.slot = slot;
+}
 const x = icerikSec();
 if (!x) { console.log('Başlangıç tarihi gelmedi, atlandı.'); process.exit(0); }
 console.log(`${arg.tarih || bugunTR()} slot ${arg.slot ?? '-'} → ${x.id} "${x.baslik}" [${x.kap}]`);
@@ -75,3 +92,4 @@ if (process.env.TOKEN_YENILE === '1' || yas > 7) {
 const { id } = await api(`${IG_USER_ID}/media`, { media_type: 'STORIES', video_url: url(x.video) });
 await hazirBekle(id, 60);
 console.log(`  ✓ ${x.id} → ${(await api(`${IG_USER_ID}/media_publish`, { creation_id: id })).id}`);
+fs.appendFileSync(DURUM, x.id + '\n');
