@@ -1,6 +1,6 @@
 # @uzm.pd.kursadpolat hikâye takvimi
 
-Saatler TR: 08:30 / 13:00 / 21:00. s001 2026-10-04'te çıktı; 5-7 Ekim hata verdi (Vercel git deploy'u videoları siliyordu); 2026-10-08'den s002 ile devam, bitiş 2027-01-14.
+Saatler TR: 08:30 / 13:00 / 21:00. s001 2026-10-04'te çıktı; 5-7 Ekim hata verdi (Vercel git deploy'u videoları siliyordu); 2026-10-08'den s002 ile devam, bitiş 2027-01-15.
 
 | Tarih | 08:30 | 13:00 | 21:00 |
 |---|---|---|---|
