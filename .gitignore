@@ -5,3 +5,4 @@ donustur.sh
 .vercel/
 .DS_Store
 .vercel
+token.enc
